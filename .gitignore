@@ -53,3 +53,6 @@ ui-debug.log
 #System Files
 .DS_Store
 Thumbs.db
+
+# stuff I have added myself
+.yarn
